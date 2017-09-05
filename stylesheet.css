@@ -43,3 +43,11 @@ a
 	left: 0px;
 	border:none;
 }
+meter
+{
+	background-color: #FFF;
+	padding: 5px;
+	color: #e44e2d;
+	margin-left:20px;
+	width:200px;
+}
